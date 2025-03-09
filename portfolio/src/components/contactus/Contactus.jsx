@@ -9,14 +9,14 @@ export function Contactus(){
          <div className="contact-section">
             <div className="contact-left">
                 <h1>Let's talk</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium qui cupiditate ab maxime sunt quis pariatur eligendi possimus omnis cum.</p>
+                
                 <div className="contact-details">
                     <div className="contact-detail">
-                    <i class="fas fa-envelope"></i> <p>korimilliharshavardhan@gmail.com</p>
+                    <i class="fas fa-envelope"></i> <p>jhansimannidi@gmail.com</p>
 
                     </div>
                     <div className="contact-detail">
-                    <i class="bi bi-telephone"></i><p>+91 9550315237</p>
+                    <i class="bi bi-telephone"></i><p>+91 7893151303</p>
 
                         </div>
                         <div className="contact-detail">

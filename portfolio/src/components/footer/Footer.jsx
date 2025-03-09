@@ -6,7 +6,7 @@ function Footer(){
           <div className="footer-top">
             <div className="footer-top-left">
                 <img src="" alt="" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum optio eum pariatur delectus itaque illum odit nemo sint obcaecati iste.</p>
+                
             </div>
             <div className="footer-top-right">
                 <div className="footer-email-input">
@@ -17,11 +17,10 @@ function Footer(){
           </div>
           <hr />
           <div className="footer-bottom">
-            <div className="footr-bottom-left">© 2024 Your Company Name. All rights reserved</div>
+            <div className="footr-bottom-left"></div>
             <div className="footer-bottom-right">
-                <p>Term of Service</p>
-                <p>Privacy Policy</p>
-                <p>Connect with me</p>
+                
+                <p>Jhansi Mannidi's</p>
             </div>
           </div>
         </div>
